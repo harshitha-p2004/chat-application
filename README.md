@@ -21,9 +21,9 @@ This is a simple chat application built with HTML, CSS, and JavaScript. It allow
 
 5. To clear the chat history, click the "Clear Chat" button.
 
-## live demo of Chat pplication
+## live demo of Chat Application
 
-
+<a href="https://harshitha-p2004.github.io/chat-application/" target="_blanck">LIVE DEMO LINK<a/>
 
 ## Customization
 
