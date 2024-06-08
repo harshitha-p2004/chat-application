@@ -33,6 +33,3 @@ You can customize the appearance of the chat app by modifying the `style.css` fi
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
